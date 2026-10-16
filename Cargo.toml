@@ -1,0 +1,8 @@
+[package]
+name = "jetop"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ctrlc = "3.5.2"
+regex = "1.13.1"
